@@ -1,0 +1,11 @@
+langchain-openai
+langchain-text-splitters
+uvicorn
+fastapi
+python-dotenv
+tiktoken
+weaviate-client
+pymongo[srv]
+langchain
+google-generativeai
+redis
